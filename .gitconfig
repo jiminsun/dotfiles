@@ -1,0 +1,7 @@
+[user]
+	name = jiminsun
+    email = jiminxsun@gmail.com
+[push]
+    default = simple
+[core]
+    editor = vim
